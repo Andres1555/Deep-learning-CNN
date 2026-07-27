@@ -1,0 +1,6 @@
+images/
+graphics/
+model_emotions.keras
+testing/
+__pycache__/
+*.pyc
